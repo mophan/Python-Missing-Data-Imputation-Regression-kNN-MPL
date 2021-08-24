@@ -72,7 +72,7 @@ Below are the list of all variables:
    - Thinness 10-19 years      `Prevalence of thinness among children and adolescents for Age 10-19` 
    - Thinness 5-9 year         `Prevalence of thinness among children for Age 5-9`
    - Income composition        `Human Development Index in terms of income of resources composition (from 0 to 1)`
-   - Schooling                 `Number of years of Schooling`
+   - Schooling                 `Number of years of schooling`
 
 Life expectancy is the output variable, and the rest are the predictors.
 
