@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <h1 align="center">Using Python to Indentify What Factors Influence Life Expectancy</h1>
+  <h1 align="center">Using Python to Impute Missing Data</h1>
 
 <p align="center">
   <br /> 
