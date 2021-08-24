@@ -6,7 +6,7 @@
 
 <p align="center">
   <br /> 
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Document</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Dataset</a>
     ·
@@ -52,27 +52,27 @@ There are 20 variables in the dataset which was collected for 193 countries duri
 
 Below are the list of all variables:
 
-1. Life expectancy:           _Average life expectancy (age) for a country in a particular year_
-2. Year
-3. Status:                    _The status of country (Developed or Developing)_ 
-4. Adult Mortality:           _Probability of dying between 15 and 60 years per 1000 population_
-5. Infant deaths:             _Number of Infant Deaths per 1000 population_
-6. Alcohol:                   _Alcohol, recorded per capita (15+) consumption (in litres)_
-7. Percentage Expenditure:    _Expenditure on health as a percentage of Gross Domestic Product per capita(%)_
-8. Hepatitis B:               _Hepatitis B immunization coverage among 1-year-olds (%)_
-9. Measles:                   _Measles - number of reported cases per 1000 population_
-10. BMI:                      _Average Body Mass Index of entire population_
-11. Under-five deaths:        _Number of under-five deaths per 1000 population_
-12. Polio:                    _Polio immunization coverage among 1-year-olds (%)_
-13. Total expenditure:        _Government expenditure on health as a percentage of total government expenditure (%)_
-14. Diphtheria:               _Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds_
-15. HIV/AIDS:                 _Deaths per 1000 live births HIV/AIDS (0-4 years)_
-16. GDP:                      _Gross Domestic Product per capita (in USD)_
-17. Population:               _Population of the country_
-18. Thinness 10-19 years:     _Prevalence of thinness among children and adolescents for Age 10-19_ 
-19. Thinness 5-9 year:        _Prevalence of thinness among children for Age 5-9_
-20. Income composition:       _Human Development Index in terms of income of resources composition (from 0 to 1)_
-21. Schooling:                _Number of years of Schooling_
+- Life expectancy:           `Average life expectancy (age) for a country in a particular year`
+- Year
+- Status:                    `The status of country (Developed or Developing)` 
+- Adult Mortality:           `Probability of dying between 15 and 60 years per 1000 population`
+- Infant deaths:             `Number of Infant Deaths per 1000 population`
+- Alcohol:                   `Alcohol, recorded per capita (15+) consumption (in litres)`
+- Percentage Expenditure:    `Expenditure on health as a percentage of Gross Domestic Product per capita(%)`
+- Hepatitis B:               `Hepatitis B immunization coverage among 1-year-olds (%)`
+- Measles:                  `Measles - number of reported cases per 1000 population`
+- BMI:                      `Average Body Mass Index of entire population`
+- Under-five deaths:        `Number of under-five deaths per 1000 population`
+- Polio:                    `Polio immunization coverage among 1-year-olds (%)`
+- Total expenditure:        `Government expenditure on health as a percentage of total government expenditure (%)`
+- Diphtheria:               `Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds`
+- HIV/AIDS:                 `Deaths per 1000 live births HIV/AIDS (0-4 years)`
+- GDP:                      `Gross Domestic Product per capita (in USD)`
+- Population:               `Population of the country`
+- Thinness 10-19 years:     `Prevalence of thinness among children and adolescents for Age 10-19` 
+- Thinness 5-9 year:        `Prevalence of thinness among children for Age 5-9`
+- Income composition:       `Human Development Index in terms of income of resources composition (from 0 to 1)`
+- Schooling:                `Number of years of Schooling`
 
 Life expectancy is the output variable, and the rest are the predictors.
 
