@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project performs the imputation of missing values on the life expectancy dataset using the application of linear regression, kNN regression, and MLP regression models in Python with scikit-learn package.   
+This project performs the imputation of missing values on the life expectancy dataset using the application of linear regression, kNN regression, and neural network regression models in Python with scikit-learn package.   
 
 
 <!-- DATA DESCRIPTION -->
@@ -74,32 +74,39 @@ Below are the list of all variables:
 20. Income composition:       _Human Development Index in terms of income of resources composition (from 0 to 1)_
 21. Schooling:                _Number of years of Schooling_
 
-Life expectancy is the response variable, and the rest are the predictors.
+Life expectancy is the output variable, and the rest are the predictors.
 
 <!-- METHODOLOGY -->
 ## Methodology
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Impute predictors
+5 variables have missing values:
+- Adult mortality: 10 missing records
+- Alcohol: 194 missing records
+- BMI: 34 missing records
+- Income composition of resources: 167 missing records
+- Schooling: 163 missing records
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Replacing null values in adult mortality, alcohol with 0; in BMI, income composition of resources, schooling with the respective mean by the status of a country.
 
+### Impute the life expectancy variable
+Using 3 different following methods
+1. Linear Regression Model
+2. Neural Network Regression Model
+3. kNN Regression Model
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Then compare the mean-squared error (MSE) of 3 methods to find the most accurate results.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+_For more details, please refer to the [Project Notebook Document](https://example.com)_
+
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Mo Phan - helen.dreamsbigdreams@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Project Link: [https://github.com/mophan/Python-What-Factors-Influence-Life-Expectancy](https://github.com/mophan/Python-What-Factors-Influence-Life-Expectancy)
 
 
 <!-- LICENSE -->
