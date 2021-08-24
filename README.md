@@ -52,12 +52,12 @@ There are 20 variables in the dataset which was collected for 193 countries duri
 
 Below are the list of all variables:
 
-1. Life expectancy:           _Life expectancy (age) for a country in a particular year_
+1. Life expectancy:           _Average life expectancy (age) for a country in a particular year_
 2. Year
 3. Status:                    _The status of country (Developed or Developing)_ 
-4. Adult Mortality           Probability of dying between 15 and 60 years per 1000 population
-5. Infant deaths             Number of Infant Deaths per 1000 population
-6. Alcohol                   Alcohol, recorded per capita (15+) consumption (in litres)
+4. Adult Mortality:           _Probability of dying between 15 and 60 years per 1000 population_
+5. Infant deaths:             _Number of Infant Deaths per 1000 population
+6. Alcohol:                   _Alcohol, recorded per capita (15+) consumption (in litres)
 7. Percentage Expenditure    Expenditure on health as a percentage of Gross Domestic Product per capita(%)
 8. Hepatitis B               Hepatitis B immunization coverage among 1-year-olds (%)
 9. Measles                   Measles - number of reported cases per 1000 population
