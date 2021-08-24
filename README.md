@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Dataset</a>
     ·
-    <a href="https://github.com/mophan/Python-What-Factors-Influence-Life-Expectancy/issues">Report Bug</a>
+    <a href="https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL/issues">Report Bug</a>
 <br />
 <br />  
   </p>
@@ -106,7 +106,7 @@ _For more details, please refer to the [Project Notebook Document](https://examp
 
 Mo Phan - helen.dreamsbigdreams@gmail.com
 
-Project Link: [https://github.com/mophan/Python-What-Factors-Influence-Life-Expectancy](https://github.com/mophan/Python-What-Factors-Influence-Life-Expectancy)
+Project Link: [https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL](https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL)
 
 
 <!-- LICENSE -->
