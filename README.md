@@ -52,27 +52,27 @@ There are 20 variables in the dataset which was collected for 193 countries duri
 
 Below are the list of all variables:
 
-- Life expectancy:           `Average life expectancy (age) for a country in a particular year`
-- Year
-- Status:                    `The status of country (Developed or Developing)` 
-- Adult Mortality:           `Probability of dying between 15 and 60 years per 1000 population`
-- Infant deaths:             `Number of Infant Deaths per 1000 population`
-- Alcohol:                   `Alcohol, recorded per capita (15+) consumption (in litres)`
-- Percentage Expenditure:    `Expenditure on health as a percentage of Gross Domestic Product per capita(%)`
-- Hepatitis B:               `Hepatitis B immunization coverage among 1-year-olds (%)`
-- Measles:                  `Measles - number of reported cases per 1000 population`
-- BMI:                      `Average Body Mass Index of entire population`
-- Under-five deaths:        `Number of under-five deaths per 1000 population`
-- Polio:                    `Polio immunization coverage among 1-year-olds (%)`
-- Total expenditure:        `Government expenditure on health as a percentage of total government expenditure (%)`
-- Diphtheria:               `Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds`
-- HIV/AIDS:                 `Deaths per 1000 live births HIV/AIDS (0-4 years)`
-- GDP:                      `Gross Domestic Product per capita (in USD)`
-- Population:               `Population of the country`
-- Thinness 10-19 years:     `Prevalence of thinness among children and adolescents for Age 10-19` 
-- Thinness 5-9 year:        `Prevalence of thinness among children for Age 5-9`
-- Income composition:       `Human Development Index in terms of income of resources composition (from 0 to 1)`
-- Schooling:                `Number of years of Schooling`
+Life expectancy           `Average life expectancy (age) for a country in a particular year`
+Year
+Status:                    `The status of country (Developed or Developing)` 
+Adult Mortality:           `Probability of dying between 15 and 60 years per 1000 population`
+Infant deaths:             `Number of Infant Deaths per 1000 population`
+Alcohol:                   `Alcohol, recorded per capita (15+) consumption (in litres)`
+Percentage Expenditure:    `Expenditure on health as a percentage of Gross Domestic Product per capita(%)`
+Hepatitis B:               `Hepatitis B immunization coverage among 1-year-olds (%)`
+Measles:                  `Measles - number of reported cases per 1000 population`
+BMI:                      `Average Body Mass Index of entire population`
+Under-five deaths:        `Number of under-five deaths per 1000 population`
+Polio:                    `Polio immunization coverage among 1-year-olds (%)`
+Total expenditure:        `Government expenditure on health as a percentage of total government expenditure (%)`
+Diphtheria:               `Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds`
+HIV/AIDS:                 `Deaths per 1000 live births HIV/AIDS (0-4 years)`
+GDP:                      `Gross Domestic Product per capita (in USD)`
+Population:               `Population of the country`
+Thinness 10-19 years:     `Prevalence of thinness among children and adolescents for Age 10-19` 
+Thinness 5-9 year:        `Prevalence of thinness among children for Age 5-9`
+Income composition:       `Human Development Index in terms of income of resources composition (from 0 to 1)`
+Schooling:                `Number of years of Schooling`
 
 Life expectancy is the output variable, and the rest are the predictors.
 
