@@ -52,7 +52,7 @@ There are 20 variables in the dataset which was collected for 193 countries duri
 
 Below are the list of all variables:
 
-   - Life expectancy           `Average life expectancy (age) for a country in a particular year`
+   - Life expectancy ~~           `Average life expectancy (age) for a country in a particular year`
    - Year
    - Status                    `The status of country (Developed or Developing)` 
    - Adult Mortality           `Probability of dying between 15 and 60 years per 1000 population`
