@@ -51,27 +51,28 @@ The dataset is obtained from the website https://www.kaggle.com/kumarajarshi/lif
 There are 20 variables in the dataset which was collected for 193 countries during 16 years from 2000 to 2015. Among those, variables regarding health and life expectancy were collected from the WHO website, while the ecomonic variables were from the United Nation website.
 
 Below are the list of all variables:
-_1. Life expectancy           Life expectancy (age) for a country in a particular year_
-_2. Year_
-_3. Status                    The status of country (Developed or Developing) 
-_4. Adult Mortality           Probability of dying between 15 and 60 years per 1000 population
-_5. Infant deaths             Number of Infant Deaths per 1000 population
-_6. Alcohol                   Alcohol, recorded per capita (15+) consumption (in litres)
-_7. Percentage Expenditure    Expenditure on health as a percentage of Gross Domestic Product per capita(%)
-_8. Hepatitis B               Hepatitis B immunization coverage among 1-year-olds (%)
-_9. Measles                   Measles - number of reported cases per 1000 population
-_10. BMI                      Average Body Mass Index of entire population
-_11. Under-five deaths        Number of under-five deaths per 1000 population
-_12. Polio                    Polio immunization coverage among 1-year-olds (%)
-_13. Total expenditure        Government expenditure on health as a percentage of total government expenditure (%)
-_14. Diphtheria               Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds
-_15. HIV/AIDS                 Deaths per 1000 live births HIV/AIDS (0-4 years)
-_16. GDP                      Gross Domestic Product per capita (in USD)
-_17. Population               Population of the country
-_18. Thinness 10-19 years     Prevalence of thinness among children and adolescents for Age 10-19 
-_19. Thinness 5-9 year        Prevalence of thinness among children for Age 5-9_
-_20. Income composition       Human Development Index in terms of income of resources composition (from 0 to 1)_
-_21. Schooling                Number of years of Schooling_
+
+1. Life expectancy           Life expectancy (age) for a country in a particular year
+2. Year
+3. Status                    The status of country (Developed or Developing) 
+4. Adult Mortality           Probability of dying between 15 and 60 years per 1000 population
+5. Infant deaths             Number of Infant Deaths per 1000 population
+6. Alcohol                   Alcohol, recorded per capita (15+) consumption (in litres)
+7. Percentage Expenditure    Expenditure on health as a percentage of Gross Domestic Product per capita(%)
+8. Hepatitis B               Hepatitis B immunization coverage among 1-year-olds (%)
+9. Measles                   Measles - number of reported cases per 1000 population
+10. BMI                      Average Body Mass Index of entire population
+11. Under-five deaths        Number of under-five deaths per 1000 population
+12. Polio                    Polio immunization coverage among 1-year-olds (%)
+13. Total expenditure        Government expenditure on health as a percentage of total government expenditure (%)
+14. Diphtheria               Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds
+15. HIV/AIDS                 Deaths per 1000 live births HIV/AIDS (0-4 years)
+16. GDP                      Gross Domestic Product per capita (in USD)
+17. Population               Population of the country
+18. Thinness 10-19 years     Prevalence of thinness among children and adolescents for Age 10-19 
+19. Thinness 5-9 year        Prevalence of thinness among children for Age 5-9
+20. Income composition       Human Development Index in terms of income of resources composition (from 0 to 1)
+21. Schooling                Number of years of Schooling
 
 
 <!-- METHODOLOGY -->
