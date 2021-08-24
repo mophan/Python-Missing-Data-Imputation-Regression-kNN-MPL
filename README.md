@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project performs the imputation of missing values on the life expectancy dataset using the application of linear regression, k neighbors regression, and MLP regression models in Python with scikit-learn package.   
+This project performs the imputation of missing values on the life expectancy dataset using the application of linear regression, kNN regression, and MLP regression models in Python with scikit-learn package.   
 
 
 <!-- DATA DESCRIPTION -->
@@ -56,24 +56,25 @@ Below are the list of all variables:
 2. Year
 3. Status:                    _The status of country (Developed or Developing)_ 
 4. Adult Mortality:           _Probability of dying between 15 and 60 years per 1000 population_
-5. Infant deaths:             _Number of Infant Deaths per 1000 population
-6. Alcohol:                   _Alcohol, recorded per capita (15+) consumption (in litres)
-7. Percentage Expenditure    Expenditure on health as a percentage of Gross Domestic Product per capita(%)
-8. Hepatitis B               Hepatitis B immunization coverage among 1-year-olds (%)
-9. Measles                   Measles - number of reported cases per 1000 population
-10. BMI                      Average Body Mass Index of entire population
-11. Under-five deaths        Number of under-five deaths per 1000 population
-12. Polio                    Polio immunization coverage among 1-year-olds (%)
-13. Total expenditure        Government expenditure on health as a percentage of total government expenditure (%)
-14. Diphtheria               Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds
-15. HIV/AIDS                 Deaths per 1000 live births HIV/AIDS (0-4 years)
-16. GDP                      Gross Domestic Product per capita (in USD)
-17. Population               Population of the country
-18. Thinness 10-19 years     Prevalence of thinness among children and adolescents for Age 10-19 
-19. Thinness 5-9 year        Prevalence of thinness among children for Age 5-9
-20. Income composition       Human Development Index in terms of income of resources composition (from 0 to 1)
-21. Schooling                Number of years of Schooling
+5. Infant deaths:             _Number of Infant Deaths per 1000 population_
+6. Alcohol:                   _Alcohol, recorded per capita (15+) consumption (in litres)_
+7. Percentage Expenditure:    _Expenditure on health as a percentage of Gross Domestic Product per capita(%)_
+8. Hepatitis B:               _Hepatitis B immunization coverage among 1-year-olds (%)_
+9. Measles:                   _Measles - number of reported cases per 1000 population_
+10. BMI:                      _Average Body Mass Index of entire population_
+11. Under-five deaths:        _Number of under-five deaths per 1000 population_
+12. Polio:                    _Polio immunization coverage among 1-year-olds (%)_
+13. Total expenditure:        _Government expenditure on health as a percentage of total government expenditure (%)_
+14. Diphtheria:               _Diphtheria tetanus toxoid and pertussis immunization coverage among 1-year-olds_
+15. HIV/AIDS:                 _Deaths per 1000 live births HIV/AIDS (0-4 years)_
+16. GDP:                      _Gross Domestic Product per capita (in USD)_
+17. Population:               _Population of the country_
+18. Thinness 10-19 years:     _Prevalence of thinness among children and adolescents for Age 10-19_ 
+19. Thinness 5-9 year:        _Prevalence of thinness among children for Age 5-9_
+20. Income composition:       _Human Development Index in terms of income of resources composition (from 0 to 1)_
+21. Schooling:                _Number of years of Schooling_
 
+Life expectancy is the response variable, and the rest are the predictors.
 
 <!-- METHODOLOGY -->
 ## Methodology
@@ -82,12 +83,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -117,16 +112,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
