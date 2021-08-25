@@ -6,9 +6,9 @@
 
 <p align="center">
   <br /> 
-    <a href="https://github.com/othneildrew/Best-README-Template">View Document</a>
+    <a href="https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL/blob/master/python-mising-data-imputation-regression-knn-mpl.ipynb">View Code</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Dataset</a>
+    <a href="https://www.kaggle.com/kumarajarshi/life-expectancy-who/version/1">Download Dataset</a>
     ·
     <a href="https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL/issues">Report Bug</a>
 <br />
@@ -97,7 +97,7 @@ Using 3 different following methods
 
 Then compare the mean-squared error (MSE) of 3 methods to find the most accurate results.
 
-_For more details, please refer to the [Project Notebook Document](https://example.com)_
+_For more details, please refer to the [Project Notebook Document](https://github.com/mophan/Python-Missing-Data-Imputation-Regression-kNN-MPL/blob/master/python-mising-data-imputation-regression-knn-mpl.ipynb)_
 
 
 
