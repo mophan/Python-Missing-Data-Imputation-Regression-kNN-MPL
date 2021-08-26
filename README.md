@@ -87,7 +87,8 @@ Life expectancy is the output variable, and the rest are the predictors.
 - Income composition of resources: 167 missing records
 - Schooling: 163 missing records
 
-Replacing null values in adult mortality, alcohol with 0; in BMI, income composition of resources, schooling with the respective mean by the status of a country.
+Replacing NULL values in adult mortality, alcohol with 0, and
+Substituing NULL values in BMI, income composition of resources, schooling with the respective mean by the status of a country.
 
 ### Impute the life expectancy variable
 Using 3 different following methods
